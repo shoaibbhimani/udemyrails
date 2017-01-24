@@ -161,6 +161,7 @@ DEPENDENCIES
   coffee-rails (~> 4.2)
   jbuilder (~> 2.5)
   jquery-rails
+  mini_racer
   puma (~> 3.0)
   rails (~> 5.0.1)
   react_on_rails (~> 6)
